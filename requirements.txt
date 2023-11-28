@@ -1,9 +1,7 @@
-streamlit
-pickle
-numpy
-tensorflow
-scikit-learn
-opencv-python
-os
-tqdm
-Pillow
+streamlit==1.7.0
+numpy==1.20.3
+tensorflow==2.4.1
+scikit-learn==0.24.2
+opencv-python==4.5.2.54
+Pillow==8.2.0
+tqdm==4.60.0
