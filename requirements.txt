@@ -2,7 +2,8 @@ streamlit
 pickle
 numpy
 tensorflow
-sklearn
-cv2
+scikit-learn
+opencv-python
 os
 tqdm
+Pillow
